@@ -1,0 +1,13 @@
+# Topic Ideas
+
+## Topic 1 COVID Impacts on Individuals with Disabilities
+
+After the end of the COVID-19 pandemic, many people were able to return to normalcy. However, one population that remains heavily affected by the impacts and implications of this unprecedented disease are people with disabilities. In many cases, their disabilities place them in circumstances that make it more difficult to avoid infection, especially a decrease in their immune system's strength. People with disabilities largely need to remain extra cautious to prevent infection. This would seek to investigate COVID cases in which individuals are disabled and whether their cases are typically more severe, warranting the more abundant caution that they use. Information about COVID cases and hospitalizations would be gathered from the CDC, but I am currently unsure if this would show information about whether a hospitalized individual had a disability or not.
+
+## Topic 2 Investigation of Corporate Profits Amid Claims of Unprecedented Inflation
+
+In recent years, one of the most common reasons that people provide for the increased cost of goods and services is the unprecedented rise in inflation. While it is possible that inflation in the standard sense has caused some increase in prices, but it is presumed that a large reason for the increase in costs is due to corporations taking advantage of a captive market without price control on essential goods. This topic would seek to investigate the increases in corporate profits and executive salaries in order to determine how much of price increase comes from more typical inflation and how much comes from the grasping of more profits from the richest individuals.
+
+## Topic 3 Predicting Reductions in Food Waste
+
+In 2022 alone, the U.S. generated 88.7 million tons of surplus food and only 1.8 million tons of that food went toward donations to those in need. In recent years, there have been several different groups working with food providers in order to take the surplus food that would otherwise be thrown away and help to donate it or offer it at lower cost. The organization ReFED offers information about food surplus, at least in the United States, and some companies like Too Good 2 Go and Misfit Market provide food that would be thrown out by restaurants or grocery stores at lower cost to their customers. I would like to gather information from companies like this and organizations that track food waste to determine if efforts to reduce food waste are trending in a socially positive direction.
