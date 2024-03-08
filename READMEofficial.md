@@ -2,7 +2,7 @@
 
 ## Data Files
 
-ReFED_US_Food_Surplus_Detail.csv - This is a robust dataset providing national-level data about food waste in the US from 2010 to 2022.
+ReFED_US_Food_Surplus_Detail.csv - This is a robust dataset providing national-level data about food supply, waste, and waste diversion in the US from 2010 to 2022.
 
 ## Problem Statement
 
@@ -31,7 +31,9 @@ ReFED_US_Food_Surplus_Detail.csv - This is a robust dataset providing national-l
 |tons_landfilled|float|Amount of food disposed of in landfills in tons|
 |tons_sewer|float|Amount of food disposed of in sewers in tons|
 |tons_refuse_discards|float|Amount of food discarded at the packhouse due to failure to meet expectations in tons|
-|total_mtco2e_footprint|float|Metric tons of CO2 equivalent produced|
+|upstream_mtco2e_footprint|float|Metric tons of CO2 equivalent produced prior to waste processing (production, transportation, storage)|
+|downstream_mtco2e_footprint|float|Metric tons of CO2 equivalent produced as a result of waste processing (transportation to processing facility and act of processing)|
+|total_mtco2e_footprint|float|Metric tons of CO2 equivalent produced, aggregate of upstream and downstream|
 |gallons_water_footprint|float|Gallons of water used in process in millions|
 |meals_wasted|float|Standardized 1.2 pound units of food wasted|
 |sector_farm|integer|Determines whether or not data is from the farm sector|
