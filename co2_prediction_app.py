@@ -56,7 +56,6 @@ food_type = st.selectbox('Food Type', ['Breads and Bakery', 'Dairy and Eggs', 'D
 if st.button("Compile info"):
   data = get_data()
   df = pd.DataFrame(data, index=[0])
-  st.write(df)
   
 # Extract features from dataframe
 features = df.values
