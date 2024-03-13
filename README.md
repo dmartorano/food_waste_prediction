@@ -60,6 +60,8 @@ All of these methods contribute to the greenhouse gas emissions produced by the 
 
 After performing EDA on the correlations in the data, the distribution of the data, and the over-time trends in the food surplus, several regression models were tested in order to best predict the greenhouse gas emissions from the food supply chain. While the various forms of linear regression offered fairly high R-scores, their other metrics were quite high, indicating poor predictability. The decision tree and random forest models yielded significantly smaller metrics, indicating that they are better at predicting the greenhouse gas emissions based on the data used, although the lowest RMSE was still 86,121. However, based on the scale of the data, this RMSE is still fairly good.
 
-## Streamlit App
+## Conclusions
+
+In addition to the ability to predict greenhouse gas emissions from various destinations within the food supply chain, the project also gave some unintended insight into where surplus food in the U.S. goes. Significant greenhouse gas emissions are produced throughout the food supply chain, and many of the destinations that cause the emissions are neither reusing or recycling the surplus that is being sent there.
 
 
